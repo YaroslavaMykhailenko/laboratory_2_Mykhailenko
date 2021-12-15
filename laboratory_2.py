@@ -93,13 +93,7 @@ def PuassonProcess():
 
 
 
-
-
-
-
-
-
-
+  
 
 # 2е завдання
 def WienerProcess():
